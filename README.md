@@ -1,4 +1,5 @@
 # End-to-End Supply Chain Data Warehouse
+![Dashboard Preview](dashboard_screenshot.png)
 
 ## Project Overview
 Built a robust ELT pipeline and Data Warehouse to analyze global sales data, reducing reporting latency from days to seconds. This project simulates a real-world enterprise environment using Python for ingestion, SQL Server for warehousing, and Power BI for executive analytics.
